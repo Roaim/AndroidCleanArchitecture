@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AnimationBaseSmartDialog">
+        <item name="android:windowEnterAnimation">@anim/zoom_in</item>
+        <item name="android:windowExitAnimation">@anim/zoom_out</item>
+    </style>
+
+    <style name="ButtonPositiveBaseSmartDialog" parent="Base.TextAppearance.AppCompat.Button">
+        <item name="backgroundTint">@color/button_positive_base_smart_dialog</item>
+    </style>
+
+    <style name="ButtonNegativeBaseSmartDialog" parent="Base.TextAppearance.AppCompat.Button">
+        <item name="backgroundTint">@color/button_negative_base_smart_dialog</item>
+    </style>
+</resources>

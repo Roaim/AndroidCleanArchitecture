@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_base_smart_dialog">20dp</dimen>
+    <dimen name="margin_bottom_icon_base_smart_dialog">16dp</dimen>
+    <dimen name="margin_bottom_title_base_smart_dialog">10dp</dimen>
+    <dimen name="title_base_smart_dialog">20sp</dimen>
+    <dimen name="msg_base_smart_dialog">16sp</dimen>
+    <dimen name="margin_top_buttons_base_smart_dialog">20dp</dimen>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="a_long_msg">This is a long message which will be shown in a simple dialog. The dialog will be triggerd on continue press.</string>
+    <string name="tap_screen">Tap on Screen to start</string>
+</resources>

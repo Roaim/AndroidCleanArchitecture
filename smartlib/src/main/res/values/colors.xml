@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#212121</color>
+    <color name="msg_base_smart_dialog">#616161</color>
+    <color name="white">#fafafa</color>
+    <!--<color name="button_positive_base_smart_dialog">#6bb335</color>-->
+    <color name="button_positive_base_smart_dialog">#00796b</color>
+    <color name="button_negative_base_smart_dialog">#78909c</color>
+</resources>

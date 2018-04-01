@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartLib</string>
+    <string name="title_base_smart_dialog">Your Title goes here</string>
+    <string name="msg_base_smart_dialog">Your Message goes here</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_continue">Continue</string>
+</resources>
